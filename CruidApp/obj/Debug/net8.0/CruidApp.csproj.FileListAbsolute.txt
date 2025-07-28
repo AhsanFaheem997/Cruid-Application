@@ -1,0 +1,8 @@
+D:\Semister 5 Data\CruidApp\obj\Debug\net8.0\CruidApp.csproj.AssemblyReference.cache
+D:\Semister 5 Data\CruidApp\obj\Debug\net8.0\CruidApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semister 5 Data\CruidApp\obj\Debug\net8.0\CruidApp.AssemblyInfoInputs.cache
+D:\Semister 5 Data\CruidApp\obj\Debug\net8.0\CruidApp.AssemblyInfo.cs
+D:\Semister 5 Data\CruidApp\obj\Debug\net8.0\CruidApp.csproj.CoreCompileInputs.cache
+D:\Semister 5 Data\CruidApp\obj\Debug\net8.0\CruidApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Semister 5 Data\CruidApp\obj\Debug\net8.0\CruidApp.RazorAssemblyInfo.cache
+D:\Semister 5 Data\CruidApp\obj\Debug\net8.0\CruidApp.RazorAssemblyInfo.cs
